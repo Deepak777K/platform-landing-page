@@ -1,0 +1,9 @@
+/* styles.css */
+body {
+	font-family: Arial, sans-serif;
+}
+
+.card {
+	border: none;
+	background-color: #f9f9f9;
+}
